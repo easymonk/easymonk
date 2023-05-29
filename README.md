@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-### 我是 安逸和尚 easymonk
+### 安逸和尚easymonk
 
-### wx: easymonk
+- weixin: easymonk
+- weibo: https://weibo.com/easymonk
+- blog: https://blog.easymonk.cn
 
 <!--
 **easymonk/easymonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
