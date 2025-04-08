@@ -4,7 +4,7 @@
 
 - weixin: easymonk
 - weibo: https://weibo.com/easymonk
-- blog: https://blog.easymonk.cn
+- blog: https://blog.easymonk.uk | https://blog.easymonk.cn
 - Resume: https://keen-order-a67.notion.site/Resume-1cf20b98716780f1b5efe6a9ef07aed9?pvs=4
 - 简历: https://keen-order-a67.notion.site/1cf20b9871678021b224c82e9bac49dd?pvs=4
 
